@@ -9,10 +9,10 @@
 ## Features
 
 ✅ Responsive design that works on  various screen sizes
-- ✅ Movie and TV show browsing
-- ✅ Detailed view for each title
-- ✅ Basic navigation and layout similar to Netflix
-- ✅ Interactive elements using JavaScript
+✅ Movie and TV show browsing
+ ✅ Detailed view for each title
+ ✅ Basic navigation and layout similar to Netflix
+✅ Interactive elements using JavaScript
 
 ## Technologies Used
 
