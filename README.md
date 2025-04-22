@@ -1,20 +1,22 @@
-# Hi 👋 I'm Arshiyan 
+# Netflix Clone - Responsive Website
 
-## My Netflix clone website 
+A fully responsive **Netflix Clone** built using **HTML**, **CSS**, and **JavaScript**. This project mimics the UI of Netflix's homepage and is designed to be fully functional on desktop, tablet, and mobile devices.
 
-🚀 This is a Netflix clone website built using HTML, CSS, and JavaScript. The project aims to replicate the user interface and experience of the popular streaming service, Netflix. Users can browse through a collection of movies and TV shows, view details, and enjoy a responsive design. 🚀
-
+![Netflix Clone Screenshot](screenshot.png)
 
 ## Features
 
-✅ Responsive design that works on various screen sizes
-- ✅ Movie and TV show browsing
-- ✅ Detailed view for each title
-- ✅ Basic navigation and layout similar to Netflix
-- ✅ Interactive elements using JavaScript 
+- Fully responsive design (mobile, tablet, desktop)
+- Hero banner with background video or image
+- Movie/TV show carousels with horizontal scrolling
+- Hover effects on thumbnails
+- Mobile navigation menu
+- Dark theme inspired by Netflix's UI
+
 
 ## Technologies Used
 
-- HTML5
-- CSS3 🎨
-- JavaScript💡
+- **HTML5** – Structure of the website
+- **CSS3** – Styling and layout (Flexbox & Grid)
+- **JavaScript** – Carousel functionality, menu toggle, interactivity
+
